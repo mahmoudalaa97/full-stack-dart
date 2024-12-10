@@ -5,6 +5,7 @@
 
 # Files and directories created by pub
 .dart_tool/
+.dart_frog/
 .packages
 pubspec.lock
 
