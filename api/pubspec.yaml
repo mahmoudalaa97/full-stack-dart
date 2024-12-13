@@ -9,6 +9,9 @@ environment:
 dependencies:
   dart_frog: ^1.1.0
   dart_frog_auth: ^1.1.0
+  dio: ^5.7.0
+  google_generative_ai: ^0.4.6
+  logger: ^2.5.0
 
 dev_dependencies:
   mocktail: ^1.0.3
